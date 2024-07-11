@@ -11,7 +11,7 @@ const AppointmentsPage = () => {
 
   return (
     <div>
-      <h1>Appointments</h1>
+      <h1>Appointments!!!!!</h1>
       <ul>
         {appointments.map(appointment => (
           <li key={appointment.id}>
